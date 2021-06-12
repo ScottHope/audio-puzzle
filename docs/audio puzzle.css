@@ -18,9 +18,10 @@ audio.audio{
 }
 
 div.text{
-    font: 3em verdana;
+    font: 3.2em gochi hand, cursive;
     color: white;
     text-shadow: 3px 3px 3px #0008;
+    text-align: center;
 }
 
 input#checkbox{
