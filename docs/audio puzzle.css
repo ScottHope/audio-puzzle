@@ -3,5 +3,9 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: radial-gradient(#07f, #000);
+    background-image: radial-gradient(magenta, black);
+}
+
+.audio{
+    zoom: 200%;
 }
