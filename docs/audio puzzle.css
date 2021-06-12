@@ -15,6 +15,7 @@ div.container{
 
 audio.audio{
     zoom: 150%;
+    max-width: 80vw;
 }
 
 div.text{
