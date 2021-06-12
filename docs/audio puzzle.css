@@ -1,8 +1,8 @@
 div.container{
     display: flex;
     flex-flow: column;
-    justify-content: center;
-    align-items: space-evenly;
+    justify-content: space-evenly;
+    align-items: center;
     height: 100vh;
     background-image: radial-gradient(magenta, black);
 }
