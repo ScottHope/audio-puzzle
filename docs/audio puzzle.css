@@ -32,4 +32,5 @@ label{
     color: white;
     text-shadow: 1px 1px 1px #0008;
     zoom: 150%;
+    cursor: pointer;
 }
