@@ -1,17 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 div.container{
     display: flex;
     flex-flow: column;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     height: 100vh;
     background-image: radial-gradient(magenta, black);
+    gap: 5vh;
 }
 
 audio.audio{
-    zoom: 200%;
+    zoom: 150%;
 }
 
-p.text{
+div.text{
     font: 3em verdana;
     color: white;
+    text-shadow: 3px 3px 3px #0008;
+}
+
+input#checkbox{
+    vertical-align: -2px;
+}
+
+label{
+    font: 1em verdana;
+    color: white;
+    text-shadow: 1px 1px 1px #0008;
+    zoom: 150%;
 }
