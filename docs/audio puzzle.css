@@ -25,6 +25,7 @@ div.text{
 
 input#checkbox{
     vertical-align: -2px;
+    cursor: pointer;
 }
 
 label{
