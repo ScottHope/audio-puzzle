@@ -1,4 +1,4 @@
-.container{
+div.container{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,6 +6,11 @@
     background-image: radial-gradient(magenta, black);
 }
 
-.audio{
+audio.audio{
     zoom: 200%;
+}
+
+p.text{
+    font: 3em verdana;
+    color: white;
 }
