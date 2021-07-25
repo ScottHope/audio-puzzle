@@ -9,7 +9,7 @@ div.container{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: radial-gradient(magenta, black);
+    background-image: radial-gradient(#0077ff, black);
     gap: 5vh;
 }
 
@@ -23,6 +23,11 @@ div.text{
     color: white;
     text-shadow: 3px 3px 3px #0008;
     text-align: center;
+    line-height: 2;
+}
+
+.hidden{
+    display:none;
 }
 
 input#checkbox{
